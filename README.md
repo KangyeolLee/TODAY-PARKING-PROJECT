@@ -1,7 +1,7 @@
 <h1 align='center'> [SWM HAKERTON] 오늘의주차</h1>
 
 <h4 align="center">
-	<a href="#main-concept">Main Concept</a>
+	<a href="#main-concept">Main Concept</a> &nbsp; • &nbsp; 
     <a href="#tech-stack">Tech Stack</a> &nbsp; • &nbsp;   
     <a href="#sequence">Sequence</a> &nbsp; •&nbsp;  
     <a href="#description">Description</a> &nbsp; • &nbsp;  
