@@ -6,13 +6,12 @@
 
 
 ## Tech Stack
-![Frame 5](https://user-images.githubusercontent.com/42796949/118159807-751eb300-b458-11eb-9063-8f23ebdb2c5c.png)
+![1112](https://user-images.githubusercontent.com/42796949/118161360-70f39500-b45a-11eb-957a-9cde6f179cf7.png)
 
 
 
 ## Sequence
-![1112](https://user-images.githubusercontent.com/42796949/118161360-70f39500-b45a-11eb-957a-9cde6f179cf7.png)
-
+![sequence](https://user-images.githubusercontent.com/42796949/118160482-52d96500-b459-11eb-877b-09d898c91325.png)
 
 ## Description
 
@@ -31,7 +30,7 @@
 |TYPE|DESC|
 |:---:|:---:|
 |
-![parking](https://user-images.githubusercontent.com/48883344/118161025-0c383a80-b45a-11eb-9881-aa504339dc20.PNG)| 정 |
+![parking](https://user-images.githubusercontent.com/48883344/118161025-0c383a80-b45a-11eb-9881-aa504339dc20.PNG)| 정차만가능 |
 |
 ![stop](https://user-images.githubusercontent.com/48883344/118161033-0d696780-b45a-11eb-8aa4-0a35799fb544.PNG)| |
 
