@@ -5,11 +5,13 @@
     <a href="#tech-stack">Tech Stack</a> &nbsp; • &nbsp;   
     <a href="#sequence">Sequence</a> &nbsp; •&nbsp;  
     <a href="#description">Description</a> &nbsp; • &nbsp;  
+</h4>
+<h4>
     <a href="#how-to-use">How To Use</a> &nbsp; • &nbsp;
     <a href="#demo-web-page">Demo Web Page</a> &nbsp; • &nbsp;
 	<a href="#colaborators">Colaborators</a>
-
 </h4>
+
 <br>
 
 ## Main Concept
