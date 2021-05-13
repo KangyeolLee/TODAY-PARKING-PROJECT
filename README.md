@@ -11,7 +11,8 @@
 
 
 ## Sequence
-![sequence](https://user-images.githubusercontent.com/42796949/118160482-52d96500-b459-11eb-877b-09d898c91325.png)
+![1112](https://user-images.githubusercontent.com/42796949/118161360-70f39500-b45a-11eb-957a-9cde6f179cf7.png)
+
 
 ## Description
 
@@ -21,9 +22,19 @@
 
 왠진 모르겠지만 오늘 날씨도 제공하고 있습니다.
 
-쓸모가 있을진 모르겠지만 현재 시간도 알려줍니다!
+쓸모가 있을진 모르겠지만 현재 시간도 알려줍니다! 아쉽게도 시간은 흐르지 않습니다.
 
 미세먼지로 부터 호흡기를 보호하세요!
+
+## How To Use
+
+|TYPE|DESC|
+|:---:|:---:|
+|
+![parking](https://user-images.githubusercontent.com/48883344/118161025-0c383a80-b45a-11eb-9881-aa504339dc20.PNG)| 정 |
+|
+![stop](https://user-images.githubusercontent.com/48883344/118161033-0d696780-b45a-11eb-8aa4-0a35799fb544.PNG)| |
+
 
 ## Demo Web Page
 
