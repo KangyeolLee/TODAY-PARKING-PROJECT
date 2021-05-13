@@ -4,7 +4,7 @@
 	<a href="#main-concept">Main Concept</a> &nbsp; • &nbsp; 
     <a href="#tech-stack">Tech Stack</a> &nbsp; • &nbsp;   
     <a href="#sequence">Sequence</a> &nbsp; •&nbsp;  
-    <a href="#description">Description</a> &nbsp; • &nbsp;  
+    <a href="#description">Description</a>
 </h4>
 <h4 align="center">
     <a href="#how-to-use">How To Use</a> &nbsp; • &nbsp;
@@ -59,3 +59,9 @@
 ## Demo Web Page
 
 ## Colaborators
+
+- 데이터처리 담당
+
+- 백엔드 담당
+
+- 프론트엔드 담당
