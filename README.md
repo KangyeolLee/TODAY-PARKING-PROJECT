@@ -11,11 +11,19 @@
 
 
 ## Sequence
-![Frame 6](https://user-images.githubusercontent.com/42796949/118158207-70f19600-b456-11eb-80e2-9f4c0be3c4ba.png)
+![sequence](https://user-images.githubusercontent.com/42796949/118160482-52d96500-b459-11eb-877b-09d898c91325.png)
 
 ## Description
 
 인천광역시를 기준으로 편하게 내 주변 위치에 주정차 가능 공간을 파악할 수 있는 웹 서비스 입니다.
+
+실시간 교통 정보도 확인할 수 있습니다.
+
+왠진 모르겠지만 오늘 날씨도 제공하고 있습니다.
+
+쓸모가 있을진 모르겠지만 현재 시간도 알려줍니다!
+
+미세먼지로 부터 호흡기를 보호하세요!
 
 ## Demo Web Page
 
