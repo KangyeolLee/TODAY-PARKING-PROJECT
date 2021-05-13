@@ -4,13 +4,22 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app"
+    "start": "nodemon --exec babel-node init.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@babel/core": "^7.14.0",
+    "@babel/node": "^7.13.13",
+    "@babel/preset-env": "^7.14.1",
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.9",
+    "cors": "^2.8.5",
+    "exlint": "^0.1.6",
     "express": "^4.17.1",
-    "nodemon": "^2.0.7"
+    "morgan": "^1.10.0",
+    "n": "^7.2.2",
+    "nodemon": "^2.0.7",
+    "xlsx": "^0.16.9"
   }
 }
