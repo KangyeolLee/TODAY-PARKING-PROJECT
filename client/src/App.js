@@ -49,5 +49,5 @@ const MapContainer = styled.div`
 	flex: 6;
 	overflow: hidden;
 	height: 90%;
-	min-height: 430px;
+	min-height: 780px;
 `;

@@ -1,6 +1,8 @@
 const { kakao } = window;
 
 const setPolylines = (geolocation) => {
+	if(!geolocation) return;
+	
 	const linePaths = geolocation.map(data => [
 		new kakao.maps.LatLng(data.startPos.y, data.startPos.x),
 		new kakao.maps.LatLng(data.endPos.y, data.endPos.x),

@@ -4,6 +4,8 @@ import setCustomOverlay from "./setCustomOverlay";
 const { kakao } = window;
 
 const setMarkerAndOverlay = (geolocation) => {
+	if(!geolocation) return;
+	
 	const markerPositions = geolocation.map(data => [
 		(data.startPos.y + data.endPos.y) / 2,
 		(data.startPos.x + data.endPos.x) / 2,

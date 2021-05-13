@@ -6,7 +6,7 @@ const Header = () => {
 	return (
 		<StyledHeader>
 				<StyledTitle>
-					<img alt="logo-img" className="incheon" src="https://lh3.googleusercontent.com/proxy/xgsvwyn3hCTLw9Mri21uptWmV7qInnd4UHFAJ-uGsfuX_3LgdijziPypu1QfmksTHNi9XoshwMP3ojc_rxeb7w6Poim-T5xhGcYCGoIhqymLBUsy-TOEIDea2gyoc2gJCNVJ7iWwHKWYM2sBOOoSLOrJErI1PxcXW1UgpmiXCoP17cWNig6-SQ"/>
+					<img alt="logo-img" className="incheon" src="https://lh3.googleusercontent.com/proxy/ulq1uOsUmfwpS-cSu3jUW_UqMNjv0VJWEgo2jlE6aMi5Ebgd-PBTasjcPIZjKaVR5k53kw42LXytV6bikaLMt2eAyBQBP7J2sgEWG18LFW6TgufSYKpF4Hek-ycr3roWioLL2IbBw2CNJPEEwaTktX547Tmx0idCGtvFJPu7GNPEjVsRN1ZGSw"/>
 					<h1 className="title title__text">오늘의</h1>
 					<h1 className="title__text1">주차</h1>
 					<h1 className="title__text2">Incheon</h1>

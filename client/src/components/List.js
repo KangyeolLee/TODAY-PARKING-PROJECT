@@ -7,6 +7,7 @@ import {
 import ToggleButton from './Button/ToggleButton';
 import { MapContext } from "../context/MapContext";
 import getGPS from "../logics/getGPS";
+import getCurrentTimeParkingData from '../logics/getCurrentTimeParkingData';
 import setPolylines from '../logics/setPolylines';
 import setMarkerAndOverlay from '../logics/setMarkerAndOverlay';
 import axios from 'axios';
@@ -22,15 +23,21 @@ const List = () => {
 	
 	useEffect(async () => {
 		const getAllParking = async () => {
-			const geolocation = await axios.get(`${APIURL}/api/parking/all`);
+			const geolocation = await axios.get(`api/parking/all`);
+			console.log('inner : ', geolocation);
 			return geolocation.data;
 		}
 			
 		const geolocation = await getAllParking();
+		
+		console.log(geolocation);
+		
+		
 		const parkingData = geolocation?.parkingData?.parkingData;
+		const currentParkingData = getCurrentTimeParkingData(parkingData);
 				
-		const polylines = setPolylines(parkingData);
-		const [markers, overlays] = setMarkerAndOverlay(parkingData);
+		const polylines = setPolylines(currentParkingData);
+		const [markers, overlays] = setMarkerAndOverlay(currentParkingData);
 		
 		dispatch({ type: "CREATE_ONBOARD_INFO", polylines, markers, overlays });
 	}, []);

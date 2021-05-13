@@ -1,4 +1,4 @@
-<h1 align='center'> [SWM HAKERTON] 오늘의주차</h1>
+<h1 align='center'> [SWM HACKATHON] 오늘의주차</h1>
 
 <h4 align="center">
 	<a href="#main-concept">Main Concept</a> &nbsp; • &nbsp; 
@@ -43,7 +43,7 @@
 
 ## ⛏ How To Use
 
-- 현재 시간을 기준으로 가능한 주정차 공간을 지도에 표시합니다.
+- 현재 시간을 기준으로 가능한 주·정차 공간을 지도에 표시합니다.
 
 ![map](https://user-images.githubusercontent.com/48883344/118161584-b87a2100-b45a-11eb-8d8d-98889039c35d.PNG)
 
@@ -53,7 +53,7 @@
 |TYPE|DESC|
 |:---:|:---:|
 |![parking](https://user-images.githubusercontent.com/48883344/118161025-0c383a80-b45a-11eb-9881-aa504339dc20.PNG)| 정차만 가능 |
-|![stop](https://user-images.githubusercontent.com/48883344/118161033-0d696780-b45a-11eb-8aa4-0a35799fb544.PNG)| 주차도 가능|
+|![stop](https://user-images.githubusercontent.com/48883344/118161033-0d696780-b45a-11eb-8aa4-0a35799fb544.PNG)| 주·정차 가능|
 
 
 ## 🗂 Directory
