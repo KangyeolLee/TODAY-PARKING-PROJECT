@@ -14,22 +14,22 @@
 
 <br>
 
-## Main Concept
+## ✌ Main Concept
 
 - 주제 : 인천광역시 주정차 허용 구역 안내 서비스
 - 활용 데이터 : 인천광역시 경찰청 제공 시간별 주차허용 데이터셋
 
 
 
-## Tech Stack
+## 💎 Tech Stack
 ![1112](https://user-images.githubusercontent.com/42796949/118161360-70f39500-b45a-11eb-957a-9cde6f179cf7.png)
 
 
 
-## Sequence
+## 🔎 Sequence
 ![sequence](https://user-images.githubusercontent.com/42796949/118160482-52d96500-b459-11eb-877b-09d898c91325.png)
 
-## Description
+## 🤦‍♂️ Description
 
 - 인천광역시를 기준으로 편하게 내 주변 위치에 주정차 가능 공간을 파악할 수 있는 웹 서비스 입니다.
 
@@ -37,11 +37,11 @@
 
 - 왠진 모르겠지만 오늘 날씨도 제공하고 있습니다.
 
-- 쓸모가 있을진 모르겠지만 현재 시간도 알려줍니다. 아쉽게도 시간은 흐르지 않습니다. 우리의 서비스와 함께라면 노화도 막을 수 있지 않을까요?
+- 쓸모가 있을진 모르겠지만 현재 시간도 알려줍니다. 아쉽게도 시간은 흐르지 않습니다.우리의 서비스와 함께라면 노화도 막을 수 있지 않을까요?
 
 - 미세먼지로 부터 호흡기를 보호하세요! 마스크는 알아서 챙기셔야 합니다!
 
-## How To Use
+## ⛏ How To Use
 
 - 현재 시간을 기준으로 가능한 주정차 공간을 지도에 표시합니다.
 
@@ -56,12 +56,29 @@
 |![stop](https://user-images.githubusercontent.com/48883344/118161033-0d696780-b45a-11eb-8aa4-0a35799fb544.PNG)| 주차도 가능|
 
 
-## Demo Web Page
+## 🗂 Directory
+```
+📁hackathon-today-park  
+├── 📁.git
+├── 📁node_modules
+├── 📁README.md
+└── 📁client
+	├── 📁components
+	├── 📁context
+	├── 📁logics
+└── 📁server 
+    ├── 📁controllers
+    ├── 📁database
+    ├── 📁node_modules
+    └── 📁routers
+```
 
-## Colaborators
 
-- 데이터처리 담당
+## 🔔 Demo Web Page
 
-- 백엔드 담당
-
-- 프론트엔드 담당
+- https://hackerton-today-parkzrhie.run.goorm.io
+  
+## 👩🏻‍💻 Members
+| 이강열 | 김찬영 | 이원기 | 임연수 | 박영준 | 정성진 |
+| :--:| :--:|  :--:  | :--:| :--:|  :--:  |
+| [**@KangyeolLee**](https://github.com/KangyeolLee) |  [**@kchany**](https://github.com/kchany) | [**@Leewongi0731**](https://github.com/Leewongi0731) | [**@YeonsooLim**](https://github.com/limyeonsoo) | [**@eunsooJeon**](https://github.com/phm1231) | [**@on1ystar**](https://github.com/on1ystar)
